@@ -155,8 +155,7 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  width: 4.5em !important;
 }
 
 .navbar-nav .nav-link {
@@ -172,6 +171,9 @@ button:focus {
 @media (max-width: 767px) {
   .nav-link {
     padding: 0.7rem 1rem !important;
+  }
+  .logo {
+    width: 3.5em !important;
   }
 }
 
