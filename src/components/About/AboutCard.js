@@ -19,6 +19,8 @@ function AboutCard() {
             reports just for you.
             <br />
           </p>
+
+          <h3 className="about-activity">Hobbies :-</h3>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Travelling
